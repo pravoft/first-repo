@@ -13,3 +13,5 @@ testing again
 cloning repo
 
 adding something from remote for pull request
+
+merge file2 trunk
