@@ -19,3 +19,8 @@ merge file1 main
       +
 merge file2 trunk
 
+merge file2 trunk
+
+adding some feature of footer
+
+changes for navbar
