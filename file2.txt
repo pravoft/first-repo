@@ -1,2 +1,4 @@
 This is file two
 adding more content to file two
+
+here we create conflict by working devlopmnet branch totally deff work and in master branch the another work
