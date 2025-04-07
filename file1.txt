@@ -4,3 +4,6 @@ add text in file one
 
 merge fix conflict
 study to abort merge using git merge --abort
+
+adding somthing 1
+adding something 2
