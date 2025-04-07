@@ -16,3 +16,6 @@ adding something from remote for pull request
 
 
 merge file1 main
+      +
+merge file2 trunk
+
