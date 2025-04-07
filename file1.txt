@@ -15,3 +15,7 @@ cloning repo
 adding something from remote for pull request
 
 merge file2 trunk
+
+adding some feature of footer
+
+changes for navbar
